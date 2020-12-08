@@ -1,5 +1,9 @@
-Emma Harper
-emharper
+## Identifying Information:
+1. Name: Emma Harper
+2. Student ID: 2369993
+3. Email: emharper@chapman.edu
+4. Class: CPSC-298-02
+5. Assignment: numbers
 
 # Application Purpose
 
